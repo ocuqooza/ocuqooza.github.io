@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocuqooza.github.io/GiQ/sitemap_index.txt
+Sitemap: https://ocuqooza.github.io/Qfv/sitemap_index.txt
+Sitemap: https://ocuqooza.github.io/pLs/sitemap_index.txt
+Sitemap: https://ocuqooza.github.io/rvD/sitemap_index.txt
